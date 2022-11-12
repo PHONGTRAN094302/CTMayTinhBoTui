@@ -1,0 +1,10 @@
+C:\Users\os\laptrinhnet\repos\MayTinhBoTui\MayTinhBoTui\bin\Debug\MayTinhBoTui.exe.config
+C:\Users\os\laptrinhnet\repos\MayTinhBoTui\MayTinhBoTui\bin\Debug\MayTinhBoTui.exe
+C:\Users\os\laptrinhnet\repos\MayTinhBoTui\MayTinhBoTui\bin\Debug\MayTinhBoTui.pdb
+C:\Users\os\laptrinhnet\repos\MayTinhBoTui\MayTinhBoTui\obj\Debug\MayTinhBoTui.csprojAssemblyReference.cache
+C:\Users\os\laptrinhnet\repos\MayTinhBoTui\MayTinhBoTui\obj\Debug\MayTinhBoTui.Form1.resources
+C:\Users\os\laptrinhnet\repos\MayTinhBoTui\MayTinhBoTui\obj\Debug\MayTinhBoTui.Properties.Resources.resources
+C:\Users\os\laptrinhnet\repos\MayTinhBoTui\MayTinhBoTui\obj\Debug\MayTinhBoTui.csproj.GenerateResource.cache
+C:\Users\os\laptrinhnet\repos\MayTinhBoTui\MayTinhBoTui\obj\Debug\MayTinhBoTui.csproj.CoreCompileInputs.cache
+C:\Users\os\laptrinhnet\repos\MayTinhBoTui\MayTinhBoTui\obj\Debug\MayTinhBoTui.exe
+C:\Users\os\laptrinhnet\repos\MayTinhBoTui\MayTinhBoTui\obj\Debug\MayTinhBoTui.pdb
